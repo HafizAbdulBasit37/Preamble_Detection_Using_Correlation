@@ -41,7 +41,7 @@ The approach is fundamental for synchronization, packet detection, and FPGA-base
 
 **Example MATLAB plot:**  
 
-![MATLAB Signal & Correlation](Screenshot from 2025-08-13 11-36-20.png)
+![MATLAB Signal & Correlation](MATLAB_RESULT.png)
 
 ---
 
@@ -53,17 +53,17 @@ The approach is fundamental for synchronization, packet detection, and FPGA-base
 
 **RTL Diagram:**  
 
-![RTL Diagram](Screenshot from 2025-08-13 10-55-46.png)
+![RTL Diagram](RTL_DIAGRAM.png)
 
 **Simulation Results (Waveforms):**  
 
 - **Result Fig 1:**  
 
-![RTL Result Fig 1](Screenshot from 2025-08-12 18-22-00.png)  
+![RTL Result Fig 1](RTL_Result1.png)  
 
 - **Result Fig 2:**  
 
-![RTL Result Fig 2](Screenshot from 2025-08-12 18-22-04.png)  
+![RTL Result Fig 2](RTL_result2.png)  
 
 ---
 
